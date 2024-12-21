@@ -34,7 +34,7 @@ The repository contains the following files:
 - `Chinook_EDA.sql`: SQL scripts used for analysis.  
 - `Chinook_Database.sql`: The Chinook database file.  
 - `data_dictionary.txt`: Description of the database schema and attributes.  
-- `Report.pdf`: A detailed report documenting findings and recommendations (to be added).  
+- `Report.pdf`: A detailed report documenting findings and recommendations.  
 - `Visualizations.twbx`: Tableau workbook showcasing visual insights (to be added).
 
 ## Key Findings
