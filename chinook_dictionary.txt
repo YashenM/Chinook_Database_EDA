@@ -1,0 +1,11 @@
+album - AlbumId, Title, ArtistId
+artist - ArtistId, Name
+customer - CustomerId, FirstName, LastName, Company, Address, City, State, Country, PostalCode, Phone, Fax, Email, SupportRepId
+employee - EmployeeId, LastName, FirstName, Title, ReportsTo, BirthDate, HireDate, Address, City, State, Country, PostalCode, Phone, Fax, Email
+genre - GenreId, Name
+invoice - InvoiceId, CustomerId, InvoiceDate, BillingAddress, BillingCity, BillingState, BillingCountry, BillingPostalCode, Total
+invoiceline - InvoiceLineId, InvoiceId, TrackId, UnitPrice, Quantity
+mediatype - MediaTypeId, Name
+playlist - PlaylistId, Name
+playlisttrack - PlaylistId, TrackId
+track - TrackId, Name, AlbumId, MediaTypeId, GenreId, Composer, Milliseconds, Bytes, UnitPrice
